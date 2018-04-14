@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">西西弗书店</string>
+    <string name="store_name">西西弗书店</string>
+    <string name="address">地址: 重庆市江北区洋河一路68号星光68广场L2层</string>
+    <string name="telnum">电话: 023-67076125</string>
+    <string name="website">网址: http://www.sisyphe.com.cn</string>
+    <string name="worktime">营业时间: 周一至周日 10:00 - 22:00</string>
 </resources>
